@@ -1,4 +1,4 @@
-1=) git clone https://github.com/yamanefkar/Hack-Tools
+1=) git clone github.com/Werlionn/Hacker
 
 2=) cd Hacker
 
