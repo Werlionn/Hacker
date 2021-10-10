@@ -9,7 +9,7 @@ echo -e '\033[31;40;1m
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
 
-      \e[35m      ☠         Code  : YamanEfkar     ☠
+      \e[35m      ☠         Code  : Werlion     ☠
 	  \e[34m☠	     Github : Werlionn       ☠
 	 \e[33m☠  	    Crackturkey:Werlion        ☠
 	\e[32m☠ 	   Discord:! Jr Whiskey#3131      ☠
